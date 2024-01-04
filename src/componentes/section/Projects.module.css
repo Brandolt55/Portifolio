@@ -1,0 +1,17 @@
+
+
+.projects{
+    text-align: justify;
+    margin-left: 75px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;   
+}
+
+.projects h1{
+    font-size: 45px;
+}
+
+.projects #btn2{
+    align-items: center !important;
+}
