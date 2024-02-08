@@ -22,7 +22,7 @@ function Footer() {
         </li>
       </ul>
       <p>gabrielbrandolt55@gmail.com</p>
-      <p>Gabriel Brandolt © 2023</p>
+      <p>Gabriel Brandolt © 2024</p>
     </div>
   );
 }
