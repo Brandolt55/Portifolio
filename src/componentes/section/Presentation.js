@@ -44,11 +44,11 @@ function Presentation(){
 
             <h1>Olá, eu sou {text}</h1>
 
-            <h2>Sou um apaixonado por tecnologia e soluções inovadoras.Como<br/>
+            <h2>Sou um apaixonado por tecnologia e soluções inovadoras. Como<br/>
             Desenvolvedor FullStack, eu tenho o compromisso de resolver<br/>
             problemas complexos e trazer resultados excepcionais para os <br/>
-            negócios. Tenho como principal objetivo trazer melhorias à área de tecnologia<br/>
-            estou sempre em busca de novos desafios.
+            negócios. Tenho como principal objetivo trazer melhorias à área de tecnologia.<br/>
+            Estou em constante busca de desafios.
 
             </h2>
             <br/>
