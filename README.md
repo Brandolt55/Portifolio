@@ -1,70 +1,26 @@
-# Getting Started with Create React App
+# Gabriel Brandolt: Desenvolvedor Full Stack em Busca de Grandes Desafios
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Olá! Meu nome é Gabriel Brandolt e sou um desenvolvedor full stack apaixonado por tecnologia e por trazer o melhor para as empresas onde trabalho. Estou constantemente em busca de grandes desafios que me permitam expandir meu conhecimento e contribuir de forma significativa para o crescimento da empresa.
 
-## Available Scripts
+### Sobre Mim
+Tenho experiência em diversas linguagens e tecnologias, o que me permite atuar em todas as etapas do desenvolvimento de software. Minhas principais habilidades incluem:
 
-In the project directory, you can run:
+° JavaScript (JS): Domino o JavaScript tanto no front-end quanto no back-end, utilizando frameworks como React.js e Node.js para criar aplicações web dinâmicas e escaláveis.
 
-### `npm start`
+° Python (Py): Sou fluente em Python e tenho experiência com frameworks como Django e Flask para desenvolvimento web e análise de dados.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+° SQL: Possuo conhecimento sólido em SQL, o que me permite projetar e otimizar bancos de dados relacionais para aplicações web.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+° HTML e CSS: Sou habilidoso na criação de interfaces de usuário responsivas e atraentes, utilizando HTML e CSS para garantir uma experiência de usuário excepcional.
 
-### `npm test`
+Experiência e Objetivos
+Embora tenha alguma experiência na área, estou atualmente em busca de novas oportunidades de emprego onde possa aplicar minhas habilidades e aprender com desafios ainda maiores. Estou comprometido em contribuir para o sucesso da empresa, seja desenvolvendo novos recursos, otimizando processos ou resolvendo problemas complexos.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Por Que Me Escolher?
+Dedicação ao Aprendizado: Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades para me manter atualizado com as tendências do mercado.
 
-### `npm run build`
+Trabalho em Equipe: Sou um excelente comunicador e colaborador, capaz de trabalhar efetivamente em equipe para alcançar objetivos comuns.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Paixão por Desafios: Tenho uma mentalidade de resolução de problemas e adoro enfrentar desafios difíceis que me permitam crescer profissionalmente.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+#### Estou entusiasmado com a possibilidade de fazer parte de uma equipe dinâmica e inovadora, e estou pronto para enfrentar os desafios que me forem apresentados. Se você está em busca de um desenvolvedor full stack comprometido e motivado, estou à disposição para uma conversa. Vamos trabalhar juntos para levar sua empresa ao próximo nível!
